@@ -1,8 +1,14 @@
-html{background-color: lightblue;}
+html{background-image: url(../images/back-ground.png);
+	 background-repeat: no-repeat;
+	 background-color: lightblue;
+
+	}
 
 
 body {font-family: Helvetica, Arial, sans-serif;
-      font-size: 87%;}
+      font-size: 87%;
+      
+    }
 
 h1 {color: blue;
 	text-align: center;}
@@ -11,9 +17,7 @@ h2 {text-align: center;}
 
 h3 {text-align: center;}
 
-h5 {color:blue;
-
-}
+h5 {color:blue;}
 
 h6 {text-align: center;}
 
