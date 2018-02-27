@@ -1,0 +1,17 @@
+.container-fluid
+	{background-image: url(images/backGround.jpg);
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+	   -webkit-background-size: cover;
+  	   -moz-background-size: cover;
+  	   -o-background-size: cover;
+  	 background-size: cover;
+	 background-color: lightblue;
+
+	}   
+
+h3{
+	text-align: center;
+}	               
+ 
+                                               
